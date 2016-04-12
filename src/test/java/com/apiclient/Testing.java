@@ -31,8 +31,8 @@ class Testing {
 		////////////////////////////////////////////////////////////////////////////////////////////
 		// Setup
 		////////////////////////////////////////////////////////////////////////////////////////////
-		String key = "6x528bnh546wq275dx5g6eq2";
-		String secret = "WE7ef9hqwKNqqmq";
+		String key = "CHANGEME";
+		String secret = "CHANGEME";
 		String version = "preview1";
 		String practiceid = "195900";
 		String departmentId = "21";
